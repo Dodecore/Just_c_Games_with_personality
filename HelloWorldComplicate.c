@@ -268,7 +268,7 @@ while(i < num){
   if(scelta_gioco == 's')
     nuova_partita();
   else
-    printf("Arrivederci\n");
+    printf("\nArrivederci\n");
 }
 
 
