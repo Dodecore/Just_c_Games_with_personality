@@ -268,7 +268,7 @@ while(i < num){
   if(scelta_gioco == 's')
     nuova_partita();
   else
-    printf("Arrivederci\n Sono Proprietà intellettuale dell'ingegner OSenda, ogni mia distribuzione non autorizzata è perseguibile penalmente\n");
+    printf("Arrivederci\n");
 }
 
 
