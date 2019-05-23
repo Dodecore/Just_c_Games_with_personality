@@ -206,7 +206,11 @@ void lancio_moneta(){
 
 while(scelta == 's'){
   printf("quante mani facciamo?: ");
-  scanf("%i", &num);
+  do{
+    scanf("%i", &num);
+    if(num <= 0)
+      commenti_errori();
+  }while(num <= 0);
   printf("\n");
   i = 0;
 
