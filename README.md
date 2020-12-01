@@ -10,7 +10,7 @@ gcc Games.c -o Games
 Comando per eseguire su windows
 Games (da terminale spostarsi nella directory dov'è contenuto l'eseguibile e poi digitare il comando)
 
-Comando per eseguire da Max OSx && Linux
+Comando per eseguire da MacOS e Linux
 ./Games (da terminale spostarsi nella directory dov'è contenuto l'eseguibile e poi digitare il comando)
 
 ovviamente dovete avere GCC installato
